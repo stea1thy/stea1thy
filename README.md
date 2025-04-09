@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stealthy</h1>
-<h3 align="center">Welcome to my page</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stea1thy&label=Profile%20views&color=0e75b6&style=flat" alt="stea1thy" /> </p>
 
