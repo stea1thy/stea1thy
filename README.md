@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Viralytics AI](https://github.com/stea1thy)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Machine Learning, Javascript**
 
-- 👯 I’m looking to collaborate on **Websites, AI Tools, Discord Bots**
+- 👯 I’m looking to collaborate on **Websites, AI Tools, Discord Bots, Graphic Design**
 
 - 💬 Ask me about **Python**
 
