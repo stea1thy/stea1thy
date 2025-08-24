@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Viralytics AI](https://github.com/stea1thy)
 
-- 🌱 I’m currently learning **Machine Learning, Javascript**
+- 🌱 I’m currently learning **Machine Learning, De-Fi, Javascript**
 
-- 👯 I’m looking to collaborate on **Websites, AI Tools, Discord Bots, Graphic Design**
+- 👯 I’m looking to collaborate on **AI Tools, Blockchain, De-Fi Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Blockchain, De-Fi, AI, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
