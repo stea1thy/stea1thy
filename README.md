@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stea1thy&label=Profile%20views&color=0e75b6&style=flat" alt="stea1thy" /> </p>
 
-- 🔭 I’m currently working on [Viralytics AI](https://github.com/stea1thy)
+- 🔭 I’m currently working on Raise a Zombie
 
-- 🌱 I’m currently learning **Machine Learning, De-Fi, Javascript**
+- 🌱 I’m currently learning **Machine Learning, Blockchain, Game developement**
 
-- 👯 I’m looking to collaborate on **AI Tools, Blockchain, De-Fi Projects**
+- 👯 I’m looking to collaborate on **AI Tools, Blockchain, Game developement Projects**
 
 - 💬 Ask me about **Blockchain, De-Fi, AI, Python**
 
