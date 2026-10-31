@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shashank</h1>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stea1thy&label=Profile%20views&color=0e75b6&style=flat" alt="stea1thy" /> </p>
 
-- 🔭 I’m currently working on Taviraa
+<h1 align="center">Hi 👋, I'm Shashank </h1>
 
-- 🌱 I’m currently learning **Machine Learning, Blockchain, Game developement**
-
-- 👯 I’m looking to collaborate on **AI Tools, Blockchain, Game developement Projects**
-
-- 💬 Ask me about **Blockchain, De-Fi, AI, Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashankfr" height="30" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fvnq2WEHvw" height="30" width="40" /></a>
+<p align="center">
+  CS undergrad · Full-stack + AI builder · Founder of Tavira<br/>
+  1x Hackathon Winner 🏆 · Published research co-author 📄
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashank-s-7a4110387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/stea1thy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:agentvxper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<h3 align="left">Discord:</h3>
-<a href="https://discord.com/users/766543660232736790"><img src="https://lanyard.cnrad.dev/api/766543660232736790?showDisplayName=true&theme=dark&borderRadius=20px" /></a>
+---
+
+### 🚀 What I'm up to
+- 🏗️ Building **Tavira**, a fintech startup for cross-border payments
+- 🤖 Exploring **robotics + on-device AI**, working on a smartphone-powered humanoid robot (PhoneBot-India)
+- 🌐 Shipping web apps and AI-agent interfaces, and deploying them live
+- 📚 Learning: Machine Learning, Agentic AI, embedded systems
+
+
+### 🏆 Highlights
+- 🥈 **2nd place, Render72**, a 72-hour frontend and design hackathon (CORE Lab, Amrita)
+- 📄 Co-authored *"Carbon Nanotubes for Neural Applications"* (IRJIET, Apr 2024)
+
+
+### 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,mysql,mongodb,nodejs,electron,vercel,cloudflare,git,github,pr&perline=8" />
+</p>
+
+### 📦 Featured projects
+| Project | What it is |
+|---|---|
+| 🧠 **APON** | AI cognitive gaming/memory assistant for elderly dementia patients (Smart India Hackathon) |
+| 🧘 **Meditation Sanctuary** | Full-stack mindfulness app: custom timers, ambient audio, progress tracking |
+| 🛒 **TechStore** | E-commerce app in vanilla JS + Electron with dynamic rendering and animations |
+
+### 🤝 Open to
+Collaborating on **AI tools, robotics, and web products**. Ask me about Python, agentic AI workflows, or shipping fast.
 
 
