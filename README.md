@@ -24,7 +24,7 @@
 
 
 ### 🏆 Highlights
-- 🥈 **2nd place, Render72**, a 72-hour frontend and design hackathon (CORE Lab, Amrita)
+- 🥈 **Winner, Render72**, a 72-hour frontend and design hackathon (CORE Lab, Amrita)
 - 📄 Co-authored *"Carbon Nanotubes for Neural Applications"* (IRJIET, Apr 2024)
 
 
